@@ -1,1 +1,1 @@
-# Universidade-Virtual-do-Estado-de-S-o-Paulo
+# Universidade-Virtual-do-Estado-de-Sao-Paulo
