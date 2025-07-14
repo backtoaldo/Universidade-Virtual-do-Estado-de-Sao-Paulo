@@ -12,7 +12,7 @@
 | Cálculo 1 | MCA501 |  | 2º Período |
 | Fundamentos de Internet e Web | COM130 |  | 2º Período |
 | Fundamentos Matemáticos para Computação | COM150 |  | 2º Período |
-| Introdução e Conceitos de Computaçã0 | COM140 |  | 2º Período |
+| Introdução e Conceitos de Computação | COM140 |  | 2º Período |
 | Estatística e Probabilidade | PES300 |  | 3º Período |
 | Estruturas de Dados | COM160 |  | 3º Período |
 | Formação Profissional em Computação | COM200 |  | 3º Período |
